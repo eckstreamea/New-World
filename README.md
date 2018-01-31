@@ -1,3 +1,2 @@
 # New-World
-xddd
-I'm eckstremea. asdf.
+Let's start by opening your inventory. Press [E]
